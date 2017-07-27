@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Abtesting</string>
+
+    <string name="dummy_button">No</string>
+    <string name="dummy_content">No experiment Content</string>
+</resources>
