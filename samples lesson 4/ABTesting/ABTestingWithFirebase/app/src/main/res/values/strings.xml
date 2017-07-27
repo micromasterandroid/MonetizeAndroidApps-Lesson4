@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ABTestingWithFirebase</string>
+    <string name="i_m_a_experiment">I\'m a experiment</string>
+</resources>

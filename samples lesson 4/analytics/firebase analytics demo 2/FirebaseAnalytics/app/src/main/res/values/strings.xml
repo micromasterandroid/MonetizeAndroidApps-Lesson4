@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAnalytics</string>
+    <string name="click_event">Click Event</string>
+    <string name="go_to_second_screen">go to second screen</string>
+    <string name="exception_tracking">Exception Tracking</string>
+    <string name="crash_tranking">crash Tranking</string>
+</resources>

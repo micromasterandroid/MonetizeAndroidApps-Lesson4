@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358423762797",
+    "firebase_url": "https://demoapp-e4206.firebaseio.com",
+    "project_id": "demoapp-e4206",
+    "storage_bucket": "demoapp-e4206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358423762797:android:0329996bc5cbe19c",
+        "android_client_info": {
+          "package_name": "com.config.remote.pjcyber.invitesanddynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358423762797-lmt9n0308na9euntk7hukvmfll7kr27n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDILKx0IV3Q2nDpL9NL-WFNYHWHWWN_jj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

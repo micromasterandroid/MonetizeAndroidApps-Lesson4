@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.analytics.pjcyber.firebaseanalytics.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/firebaseanalytics"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnClickTracker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/click_event"
+        android:layout_above="@+id/btnSecondScreen" />
+
+
+    <Button android:id="@+id/btnSecondScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/go_to_second_screen"
+        android:layout_gravity="center_horizontal"
+        android:layout_above="@+id/btnException"
+        android:layout_alignParentStart="true" />
+
+
+    <Button android:id="@+id/btnException"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exception_tracking"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

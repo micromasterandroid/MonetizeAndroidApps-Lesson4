@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/Google Analytics demo start/googleanalyticsdemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/Google Analytics demo start/googleanalyticsdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b3c66bc46f2ebc6ba7004b35000f1db5241bcb18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/Google Analytics demo start/googleanalyticsdemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a241df771a421e57c70fc9f0a3066ba523c731fc">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/Google Analytics demo start/googleanalyticsdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07d1298add47e5404b34e5a2e80ebe50ac80838b/classes.dex" />
+    </item>
+
+</items>

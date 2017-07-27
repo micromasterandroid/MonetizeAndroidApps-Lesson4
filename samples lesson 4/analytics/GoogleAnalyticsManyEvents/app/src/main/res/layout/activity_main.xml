@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/logo"
+        android:layout_marginBottom="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+
+        <Button android:id="@+id/btnSecondScreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_second_screen"
+            android:layout_gravity="center_horizontal"
+            android:layout_above="@+id/btnSendEvent"
+            android:layout_alignParentStart="true" />
+
+        <Button android:id="@+id/btnSendEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_send_event"
+            android:layout_gravity="center_horizontal"
+            android:layout_above="@+id/btnException"
+            android:layout_alignParentStart="true" />
+
+        <Button android:id="@+id/btnException"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_exception_tracking"
+            android:layout_gravity="center_horizontal"
+            android:layout_above="@+id/btnAppCrash"
+            android:layout_alignParentStart="true" />
+
+        <Button android:id="@+id/btnAppCrash"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_app_crash"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

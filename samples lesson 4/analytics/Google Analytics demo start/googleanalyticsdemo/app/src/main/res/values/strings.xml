@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Analytics</string>
+    <string name="message">Google Analytics Demo</string>
+    <string name="event_buttom">Submit event</string>
+</resources>

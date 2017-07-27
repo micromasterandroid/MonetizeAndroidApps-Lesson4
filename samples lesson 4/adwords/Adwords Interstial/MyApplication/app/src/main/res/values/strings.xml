@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Admob_Interstial_demo</string>
+    <string name="show_interstitial_ads">Show Interstitial Ads</string>
+    <string name="admod_id"> ca-app-pub-8078419072173314/8900515980</string>
+</resources>

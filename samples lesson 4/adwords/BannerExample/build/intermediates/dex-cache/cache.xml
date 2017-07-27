@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_3cebf08ce90efd346be9de251b436e60a10bf3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.0_acd60e8e66c77cbb3ffcc464df351425c094696c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_f56f898a9f0d7ff56cf9499856c2b97740202b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_d5b3ee951b15beba20cd8e87a9ef8dc9ec85bd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.0_52498c14c487f04d33c93c4b126ed78acbbebb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_6c352479a1fe82879a3a91d705d2dc2f4797c2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.0_fa6c22c16737cc29dd1f26284119b10f5e8fe608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.0_ef80f6fdf1b4a22dacde37fe8297a24586866bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_fba7daa02972442ac9c7f03d2137bf0be608ee56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_18fa3e664dd515b28fdf7209b00534a75955b0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.0_00cad8e20e5eac23f7a66cfca6001a7487effc3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.0_63fd546fc13d2b38648a198560aea4b8c0c7279b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.0_fc898c89611bb5353e39b52a5c67d890012ff39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_38c76d0c4e6ed47e46b01ea008543e8878c2c761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_ca958fced91c0463908af9ef73f0484a5325cc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_3630466c1d0078e8747f39526803dd286a9d4d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_6595180909f126680f3a2356e9d68522f7851b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_7b010a932958644c18b5d1208eab5c5b455017ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_67ef7be846c4d966d9a72e3e63021c9c50e76c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_de926a949a33bb5cc43a8334759432df9aa72da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_efd6749290ba09d9b30c78a5a9ffa3b97cfe9064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_fbbb4e6301f6e470d7d00bf1b6d60c3856d2a7b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_8f46f213a7c55a34fa59bd048944a297d7fb69f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_8ee2b9e7cdad77fd5af347762913a89503982bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_614c399011ae095c4fff0c2fee1bdb811d40f965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_e05568086eeebb810a3f23555e35d6767c34b6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_20a6501c5f8aed96fddcb6ff6c1bb136839dc945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_41416c5091de155265cc2f6c317c5a09596fea9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_cdcea041e9afb929305eaff217b26a558cb83d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_81cd014edf183ce0ee2c53ff5767cc6c7eab893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_e80a9a095546337947ae5e00d5f2559c620cc5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.0_73c43e3d4e599d66017ae7d8bcb5345076e3a537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_0cd7d28de74e881f1338a45a38c540ecdabb0968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_8eb335d820df1373b3bc2fe717c7a07cec3076f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_32acb9ce3a1eacab3e492d15f8661e7f7af9091c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_aa5436353eea5889a0e3cbcf51b53fd30fd5666d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_8d5b0ccf4bdb1bb633226822c85fce120dd84ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_e4baea6515256158cbb67a6a87da6ed12bba9644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c5fdc6eaf66b12f0238a812ad29ec53b364653d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_cc85ab806ee37fce671c381547fefdb6382de23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_886f6c84a04eaf7d698d3ce849391be7e7a287a1.jar" />
+    </item>
+
+</items>

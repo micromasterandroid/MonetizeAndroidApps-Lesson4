@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/pjcyber/Desktop/leccion 4/repo/adwords/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/pjcyber/Desktop/ADS/googleads-mobile-android-examples-master/admob/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

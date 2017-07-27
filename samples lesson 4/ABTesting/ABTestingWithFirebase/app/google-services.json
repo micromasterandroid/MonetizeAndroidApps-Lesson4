@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855604321466",
+    "firebase_url": "https://abtesting-880a2.firebaseio.com",
+    "project_id": "abtesting-880a2",
+    "storage_bucket": "abtesting-880a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855604321466:android:29db77b91ca7cab0",
+        "android_client_info": {
+          "package_name": "com.config.remote.pjcyber.abtestingwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855604321466-d5uev7lojliet89g6vmgpl4r4almjcpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBFL2pTzMAooi9fpxvAaDtSGyO6-NNGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
