@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.firebase.quickstart.test;
+package com.google.firebase.quickstart.notifications;
 
 import android.util.Log;
 
